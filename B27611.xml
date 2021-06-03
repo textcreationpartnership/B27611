@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of the illustrious George Duke of Albemarle</title>
+            <author>M. D.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27611</idno><idno type="EEBO-CITATION">27875735</idno>
+  <idno type="VID">205766</idno>
+  <idno type="EEBO-PROQUEST">2240895667</idno>
+  
+            <idno type="STC">Wing O310A</idno>
+            <idno type="OCLC">27875735</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1731:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of the illustrious George Duke of Albemarle</title>
+                  <author>M. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sa. Heyrick ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signed: M.D.</note>
+                  <note>Text enclosed in mourning border.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670 --  Poetry.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:205766:1"/>
+            <head>On the Death of the Illustrious GEORGE <hi>Duke of</hi> ALBEMARLE.</head>
+            <lg>
+               <l>SO stoops our great <hi>Alcides, MONCK,</hi> whose brow</l>
+               <l>Would ne'r learn what Submission meant till now:</l>
+               <l>Whose wisest Conduct, and whose watchful Care,</l>
+               <l>Still spake him <hi>Great</hi> in th' bold Intrigues of War:</l>
+               <l>Whose mighty Prowests Trophies could afford</l>
+               <l>For Victories still breathing from his Sword:</l>
+               <l>Whose fiercer Arm bred Terrour where it fought,</l>
+               <l>And every Limb he wore was <hi>Castriot.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thrice greater yet, since <hi>GEORGE</hi> could overcome,</l>
+               <l>And fix a Peace from Civil Wars at home;</l>
+               <l>A nobler way, and less expensive too,</l>
+               <l>Then ere wise <hi>Homer</hi> made his <hi>Heroes</hi> do:</l>
+               <l>First <hi>Britains</hi> greatest Tyranny withstood,</l>
+               <l>Then taught the way to Conquest without Bloud;</l>
+               <l>Reviv'd a dying Scepter, sav'd a Crown,</l>
+               <l>Call'd back <hi>Great</hi> CHARLES, and fixt him in his own.</l>
+               <l>And when Heavens Agent's strangest work was done,</l>
+               <l>(By that Almighty Providence begun)</l>
+               <l>Sate down and kiss'd Reward with humble sense,</l>
+               <l>Showr'd on his head with Royal Influence;</l>
+               <l>Where his wise Counsel shew'd, his Head could fare</l>
+               <l>As well in Peace, as once his Arms in War.</l>
+               <l>At last, (with Worth still fraught) took leave, and so,</l>
+               <l>Dy'd Gracious with his King and Country too;</l>
+               <l>Where now he's grown Immortal, and with us</l>
+               <l>Greater, then ere St. <hi>George</hi> of <hi>Cappadoce.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Athens</hi> could never boast of things like these.</l>
+               <l>Though she too had her <hi>Great Themistocles.</hi>
+               </l>
+               <l>
+                  <hi>Rome</hi>'s Founder was with's Brothers bloud asperst,</l>
+               <l>VVhich made their Godds give out he was accurst,</l>
+               <l>Though the blinde common people now thought most</l>
+               <l>Their King was Godd, when <hi>Romulus</hi> was lost.</l>
+               <l>Their <hi>Good Camillus</hi>'s Triumph was too high,</l>
+               <l>And <hi>Coriolanus</hi> dy'd unhandsomely.</l>
+               <l>'Twas onely <hi>GEORGE</hi> all Wonder could put on,</l>
+               <l>'Twas onely <hi>GEORGE</hi> could grasp Perfection.</l>
+               <l>Ungrateful then, if we no Tears allow</l>
+               <l>To him that gave us Peace and Freedom too:</l>
+               <l>Let all with Sable Colours in our Isle</l>
+               <l>Fall down, and spend a sigh at's Funeral-pile.</l>
+               <l>May his <hi>Great Story</hi> last, may <hi>GEORGE</hi>'s Name</l>
+               <l>Live long, and flourish by the mouth of <hi>Fame.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>M. D.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Sa: Heyrick</hi> at <hi>Grays</hi>-Inne-gate, Holborn.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
